@@ -1,0 +1,41 @@
+/* Navbar */
+.navbar .navbar-brand {
+    font-weight: bold;
+    color: #ffcc00; /* Text color for brand */
+  }
+  
+  .navbar .navbar-brand .text-danger {
+    color: #e74c3c; /* Text color for food */
+  }
+  
+  /* Hero Section */
+  section.bg-warning {
+    background-color: #f39c12;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  section.bg-warning .card {
+    max-width: 600px;
+    border-radius: 1rem;
+  }
+  
+  section.bg-warning .btn-outline-warning.active {
+    background-color: #ffcc00;
+    color: #fff;
+  }
+  
+  section.bg-warning .input-group input {
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+  }
+  
+  section.bg-warning .btn-danger {
+    background-color: #e74c3c;
+    border: none;
+    border-radius: 0.5rem;
+  }
+  
+  
+  
